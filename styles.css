@@ -7,7 +7,7 @@ h1 {
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem; /* Increase font size */
-    color: rgb(248, 13, 13);
+    color: green;
     font-weight: bold; /* Make it bold */
 }
 
@@ -48,7 +48,6 @@ footer {
     text-align: center;
     font-size: 1.5rem; /* Increase text size */
     padding: 20px 0; /* Add vertical padding */
-    font-weight: bold; /* Make text bold */
 }
 
 
